@@ -1,4 +1,4 @@
 # Wart-Farming-script
 
-source code Maddy's Money Maker all versions
+source code Maddy's Money Maker versions 1
 
